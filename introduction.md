@@ -4,7 +4,7 @@ Open Socialism (OS) is a societal system that is designed to be the highly equit
 
 OS core goal is long term human survival. Achieving this involves things like sustainable living, advancement of technology and colonization of other planets.
 
-OS secondary goals are making corruption and power centralization as difficult as possible, keeping a relatively even distribution of wealth, a happy and engaged populace and maximizing productivity and efficiency.  
+OS secondary goals are making corruption and power centralization as difficult as possible, keeping a relatively even distribution of wealth whilst rewarding individual effort, a happy and engaged populace and maximizing productivity and efficiency.  
 
 OS is based upon modern technology. Not just technology that is currently in existence but technology that is feasible to create.
 
