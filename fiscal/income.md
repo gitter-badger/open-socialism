@@ -18,3 +18,7 @@ The goal will be to lower the barriers as much as possible to allow a person to 
 * There would not be sufficient credits to do much stuff that requires credits (eg see movies all day)
 * Humans tend to want to do some kind of work
 * Wanting to avoid work can come from psychological issues which should lessen under OS - See [Happiness](../well-being/happiness.md)
+
+## Can credits be earned from sources other than salary?
+
+Not really. Selling things second hand, gambling with friends, these are possible however people cannot run businesses to accumulate disproportionate amounts of wealth.
