@@ -1,5 +1,6 @@
 # Table Of Contents
 
+* [Societies Classic Problem](societies-classic-problems.md)
 * Core Tenets
   * [No Free Enterprise](core-tenets/no-free-enterprise.md)
   * [Open](core-tenets/open.md)
