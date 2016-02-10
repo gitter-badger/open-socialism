@@ -1,7 +1,7 @@
 # Table Of Contents
 
 * [Societies Classic Problem](societies-classic-problems.md)
-* Core Tenets
+* [Core Tenets](core-tenets/index.md)
   * [No Free Enterprise](core-tenets/no-free-enterprise.md)
   * [Open](core-tenets/open.md)
   * [Built Upon Technology](core-tenets/built-upon-technology.md)
@@ -34,7 +34,7 @@
 * Well Being
   * [Happiness](well-being/happiness.md)
   * [Community](well-being/community.md)
-* The Sciences
+* [The Sciences](the-sciences/index.md)
   * [Societal Science](the-sciences/societal-science.md)
   * [Core Sciences](the-sciences/core-sciences.md)
   * [Secondary Sciences](the-sciences/secondary-sciences.md)
@@ -47,4 +47,4 @@
 * Information
   * [Privacy](information/privacy.md)
   * [The Media](information/the-media.md)
-* [Religion](religion.md)
+* [Religion](religion/index.md)

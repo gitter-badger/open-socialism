@@ -22,3 +22,5 @@ There is little question that no free enterprise is better at a theoretical leve
   It may be possible to stem wealth inequality due to free enterprise more so than has occurred in the past but it is difficult at best since it doesn't take much accumulation for the rich to have inordinate political influence and it will snowball from there.
 
   Major wealth inequality creates a class based unequal society with different levels of service for basic needs such as health. It also [promotes unhappiness for those not in the upper wealth brackets](http://www.psychologicalscience.org/index.php/news/releases/income-disparity-makes-people-unhappy.html).
+
+It's also worth noting the 'no free enterprise' is still a knob and it's possible that 0 is not right setting. This needs to be assessed further, particularly with experiments, once an OS society is running.
