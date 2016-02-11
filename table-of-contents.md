@@ -1,6 +1,12 @@
 # Table Of Contents
 
-* [Societies Classic Problem](societies-classic-problems.md)
+* [Why 'Open Socialism'](why-open-socialism/index.md)
+* [Inspiration](inspiration/index.md)
+* Societies Classical Problems
+  * [Domination Structures](societies-classical-problems/domination-structures.md)
+  * [Corruption](societies-classical-problems/corruption.md)
+  * [Long Term Sustainability](societies-classical-problems/long-term-sustainability.md)
+  * [Efficiency](societies-classical-problems/efficiency.md)
 * [Core Tenets](core-tenets/index.md)
   * [No Free Enterprise](core-tenets/no-free-enterprise.md)
   * [Open](core-tenets/open.md)
