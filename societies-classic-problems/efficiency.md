@@ -1,3 +1,6 @@
+---
+---
+
 # Efficiency
 
 To what degree does people acting in self interest lead to the betterment of society. This should never be 100% as that may be sacrificing individual desires for society too much.

@@ -1,3 +1,6 @@
+---
+---
+
 # Prefer Long Term Thinking
 
 Long term thinking is obviously more advantageous in the long run. Too much long term thinking can have averse effects however.

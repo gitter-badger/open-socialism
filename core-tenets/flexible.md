@@ -1,3 +1,6 @@
+---
+---
+
 # Flexible
 
 In modern democracy fairness is achieved by having very specific processes and laws such as the party system and elections. However, these processes are very rigid and difficult to change if they are not serving the greater good.

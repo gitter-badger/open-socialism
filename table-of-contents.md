@@ -1,3 +1,6 @@
+---
+---
+
 # Table Of Contents
 
 * [Why 'Open Socialism'](why-open-socialism/index.md)

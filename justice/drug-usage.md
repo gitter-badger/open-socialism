@@ -1,3 +1,6 @@
+---
+---
+
 # Drug usage
 
 All drugs will be legal within OC. Prohibition creates more problems than it solves.

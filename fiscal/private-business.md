@@ -1,3 +1,6 @@
+---
+---
+
 # Private Business
 
 Private business is not allowed under OS as that would allow unrestricted wealth accumulation. In all likelihood there is no need for anything resembling it either such as entrepreneurship or startups.

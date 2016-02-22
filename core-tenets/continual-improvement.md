@@ -1,3 +1,6 @@
+---
+---
+
 # Continual Improvement
 
 [Improve everything, all the time](https://en.wikipedia.org/wiki/Continual_improvement_process). This needs to be baked into the culture of the work. There may need to be incentives involved which is fine.

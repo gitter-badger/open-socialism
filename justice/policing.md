@@ -1,3 +1,6 @@
+---
+---
+
 # Policing
 
 Policing would not be especially different but the requirement for it should lesson over time as factors which promote crime like differing social classes dissipating.

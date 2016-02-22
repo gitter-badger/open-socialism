@@ -1,3 +1,6 @@
+---
+---
+
 # Community
 
 People will be a part of multiple communities and technology and practices need to reinforce these communities. They are as follows:

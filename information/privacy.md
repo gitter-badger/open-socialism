@@ -1,3 +1,6 @@
+---
+---
+
 # Privacy
 
 Privacy is an interesting issue for a societal system as complete privacy can work against the needs of the many. Anyway, these are the general principles of OS.

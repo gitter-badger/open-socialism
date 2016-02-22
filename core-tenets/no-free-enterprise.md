@@ -1,3 +1,6 @@
+---
+---
+
 # No Free Enterprise
 
 There is little question that no free enterprise is better at a theoretical level. Societies with no free enterprise (such as communism) have almost always failed due to corruption becoming rife. These failures are not due to no free enterprise per se but a lack of guards against corruption. Open Socialism (OS) deals with the classic problems of communism in different ways which is dealt with in other sections.

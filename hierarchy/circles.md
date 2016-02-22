@@ -1,3 +1,6 @@
+---
+---
+
 # Circles
 
 A circle is an autonomous committee charged with governing a specific area of society. All levels of society work this way including the top level.

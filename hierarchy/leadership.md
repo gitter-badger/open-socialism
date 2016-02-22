@@ -1,3 +1,6 @@
+---
+---
+
 # Leadership
 
 The top level of society is a circle much like any other. The major difference is that it doesn't have a parent circle sitting above it, monitoring it, that can dissolve it at any point if required if things are getting out of hand.

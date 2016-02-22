@@ -1,3 +1,6 @@
+---
+---
+
 # Reward Individual Effort
 
 Traditional systems that had no free enterprise did not sufficiently reward individual effort. Humans are collaborative, but are also fundamentally self-interested. An inability to advance in society and reap rewards stifles individual effort.

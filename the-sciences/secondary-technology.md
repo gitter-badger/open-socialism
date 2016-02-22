@@ -1,3 +1,6 @@
+---
+---
+
 # Secondary Technology
 
 Secondary technology are the products and technologies used by the end consumers which can be departments or individuals for personal usage. A TV is an example of a secondary technology. Another would be a project management application.

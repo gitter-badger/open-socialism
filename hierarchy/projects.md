@@ -1,3 +1,6 @@
+---
+---
+
 # Projects
 
 A project has a specific goal which may be completable or ongoing. It consists of a team of people which may include circle members.

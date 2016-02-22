@@ -1,3 +1,6 @@
+---
+---
+
 # Religion
 
 Not much to say on religion other than they can continue to exist under Open Socialism.

@@ -1,3 +1,6 @@
+---
+---
+
 # Field Education
 
 Field education would be free and anyone can join any course they want at any age. Courses would be tweaked to become self learning centric with clear course materials that students can follow along with a minimum amount of help.

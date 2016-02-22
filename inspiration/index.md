@@ -1,3 +1,6 @@
+---
+---
+
 # The Inspiration Of Open Socialism
 
 Open Socialism is inspired by a few different things.

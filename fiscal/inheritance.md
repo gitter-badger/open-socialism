@@ -1,3 +1,6 @@
+---
+---
+
 # Inheritance
 
 Inheritance can be dangerous because it can allow unfair accumulation of wealth. At the same time, as people can't amass large quantities of wealth through private enterprise how much of an issue is it? If one's parents were very frugal and saved a decent amount of wealth is it fair for their child to have an advantage compared to another child?

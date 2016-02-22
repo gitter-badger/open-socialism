@@ -1,3 +1,6 @@
+---
+---
+
 # Why 'Open Socialism'
 
 ## Open

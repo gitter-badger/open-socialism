@@ -1,3 +1,6 @@
+---
+---
+
 # The Media
 
 There is much less need for the media as it does in DC to exist. In DC with segments of self interest there is a lot of incentive to conceal or misrepresent facts.

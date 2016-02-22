@@ -1,3 +1,6 @@
+---
+---
+
 # Domination Structures
 
 ## What is a domination structure?

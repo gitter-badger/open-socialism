@@ -1,3 +1,6 @@
+---
+---
+
 # Open
 
 Open describes 2 core mechanisms within Open Socialism.
