@@ -1,4 +1,5 @@
 ---
+title: 'Open Socialism'
 ---
 
 # The Open Socialism System
